@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gugan-ar
+- 👋 Hi, I’m Gugan A R
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front End Development
